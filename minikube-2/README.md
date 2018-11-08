@@ -1,1 +1,1 @@
-# kubernetes_django minikube
+# django minikube deploy
