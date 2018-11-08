@@ -1,0 +1,5 @@
+celery==4.1.0
+Django==2.1
+django-health-check==3.0.0
+kombu==4.2.1
+psycopg2==2.7.5
