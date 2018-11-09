@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: django-web
-          image: dockerbogo/django-minikube:2.0.0
+          image: dockerbogo/django-minikube-2b:1.0.0
           ports:
             - containerPort: 8000
           env:
