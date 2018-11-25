@@ -1,4 +1,4 @@
-# kubernetes_django - minikube (local) and deploy via kops
+# kubernetes_django - minikube (local) and deploy to AWS via kops
 
 ## Tutorials
 [Docker & Kubernetes 2 : minikube B](https://www.bogotobogo.com/DevOps/Docker/Docker_Kubernetes_Minikube.php)
