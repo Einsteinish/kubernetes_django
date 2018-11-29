@@ -17,6 +17,7 @@ variable "vpc-subnet-cidr" {
   type        = "string"
   description = "The VPC Subnet CIDR"
 }
+
 variable "node-instance-type" {
   default     = "t2.medium"
   type        = "string"
@@ -30,7 +31,7 @@ variable "desired-capacity" {
 }
 
 variable "max-size" {
-  default     = 5
+  default     = 3
   type        = "string"
   description = "Autoscaling maximum node capacity"
 }
